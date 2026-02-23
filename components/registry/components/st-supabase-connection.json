@@ -21,5 +21,10 @@
     "enabled": true,
     "notes": null
   },
-  "categories": ["Connections", "Authentication", "Integrations", "Developer tools"]
+  "categories": [
+    "Connections",
+    "Authentication",
+    "Integrations",
+    "Developer tools"
+  ]
 }
